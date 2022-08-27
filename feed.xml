@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Daryl&#x27;s 50th</title>
-    <link href="https://publii.daryl50th.pages.dev/feed.xml" rel="self" />
-    <link href="https://publii.daryl50th.pages.dev" />
+    <link href="https://sirmysterion.github.io/Daryl50th/feed.xml" rel="self" />
+    <link href="https://sirmysterion.github.io/Daryl50th" />
     <updated>2022-08-27T09:18:52-06:00</updated>
     <author>
         <name>TnE Peters</name>
     </author>
-    <id>https://publii.daryl50th.pages.dev</id>
+    <id>https://sirmysterion.github.io/Daryl50th</id>
 
     <entry>
         <title>Testing 123</title>
         <author>
             <name>TnE Peters</name>
         </author>
-        <link href="https://publii.daryl50th.pages.dev/testing-123/"/>
-        <id>https://publii.daryl50th.pages.dev/testing-123/</id>
+        <link href="https://sirmysterion.github.io/Daryl50th/testing-123/"/>
+        <id>https://sirmysterion.github.io/Daryl50th/testing-123/</id>
 
         <updated>2022-08-27T09:15:59-06:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>TnE Peters</name>
         </author>
-        <link href="https://publii.daryl50th.pages.dev/hello-world/"/>
-        <id>https://publii.daryl50th.pages.dev/hello-world/</id>
+        <link href="https://sirmysterion.github.io/Daryl50th/hello-world/"/>
+        <id>https://sirmysterion.github.io/Daryl50th/hello-world/</id>
 
         <updated>2022-08-27T09:18:52-06:00</updated>
             <summary>
