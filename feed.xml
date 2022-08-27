@@ -3,7 +3,7 @@
     <title>Daryl&#x27;s 50th</title>
     <link href="https://sirmysterion.github.io/Daryl50th/feed.xml" rel="self" />
     <link href="https://sirmysterion.github.io/Daryl50th" />
-    <updated>2022-08-27T09:28:33-06:00</updated>
+    <updated>2022-08-27T10:32:39-06:00</updated>
     <author>
         <name>TnE Peters</name>
     </author>
@@ -37,7 +37,7 @@
         <link href="https://sirmysterion.github.io/Daryl50th/hello-world/"/>
         <id>https://sirmysterion.github.io/Daryl50th/hello-world/</id>
 
-        <updated>2022-08-27T09:18:52-06:00</updated>
+        <updated>2022-08-27T10:32:39-06:00</updated>
             <summary>
                 <![CDATA[
                     Hello World text
@@ -58,9 +58,26 @@ style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-
 </div>
 </div>
 
-  <p>
-    
-  </p>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://sirmysterion.github.io/Daryl50th/media/posts/1/gallery/DSCF6471.jpg" data-size="3942x5913">
+        <img loading="lazy" src="https://sirmysterion.github.io/Daryl50th/media/posts/1/gallery/DSCF6471-thumbnail.jpg" height="1080" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://sirmysterion.github.io/Daryl50th/media/posts/1/gallery/DSCF6495.jpg" data-size="3685x5527">
+        <img loading="lazy" src="https://sirmysterion.github.io/Daryl50th/media/posts/1/gallery/DSCF6495-thumbnail.jpg" height="1080" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://sirmysterion.github.io/Daryl50th/media/posts/1/gallery/DSCF6497.jpg" data-size="4160x6240">
+        <img loading="lazy" src="https://sirmysterion.github.io/Daryl50th/media/posts/1/gallery/DSCF6497-thumbnail.jpg" height="1080" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
