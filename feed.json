@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Daryl&#x27;s 50th",
+    "description": "",
+    "home_page_url": "https://publii.daryl50th.pages.dev",
+    "feed_url": "https://publii.daryl50th.pages.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "TnE Peters"
+    },
+    "items": [
+        {
+            "id": "https://publii.daryl50th.pages.dev/testing-123/",
+            "url": "https://publii.daryl50th.pages.dev/testing-123/",
+            "title": "Testing 123",
+            "author": {
+                "name": "TnE Peters"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-27T09:15:59-06:00",
+            "date_modified": "2022-08-27T09:15:59-06:00"
+        },
+        {
+            "id": "https://publii.daryl50th.pages.dev/hello-world/",
+            "url": "https://publii.daryl50th.pages.dev/hello-world/",
+            "title": "Daryl&#x27;s 50th",
+            "summary": "Hello World text",
+            "content_html": "\n  <p>\n    Hello World text\n  </p>\n<div><div class=\"map-responsive\">\n<iframe loading=\"lazy\" \nsrc=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.2075449683653!2d-114.0740545842475!3d51.030787379559634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53717147118bdc79%3A0x946adaf3fb559b2c!2sSouth%20Block%20Barbecue%20%26%20Brewing%20Co.!5e0!3m2!1sen!2sca!4v1661573086545!5m2!1sen!2sca\"\nwidth=\"400\" height=\"300\" \nstyle=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\">\n</iframe>\n</div>\n</div>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "TnE Peters"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-27T08:38:59-06:00",
+            "date_modified": "2022-08-27T09:18:52-06:00"
+        }
+    ]
+}
