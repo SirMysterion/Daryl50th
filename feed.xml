@@ -3,23 +3,31 @@
     <title>Daryl&#x27;s 50th</title>
     <link href="https://sirmysterion.github.io/Daryl50th/feed.xml" rel="self" />
     <link href="https://sirmysterion.github.io/Daryl50th" />
-    <updated>2022-08-27T09:18:52-06:00</updated>
+    <updated>2022-08-27T09:28:33-06:00</updated>
     <author>
         <name>TnE Peters</name>
     </author>
     <id>https://sirmysterion.github.io/Daryl50th</id>
 
     <entry>
-        <title>Testing 123</title>
+        <title>Infomation 1</title>
         <author>
             <name>TnE Peters</name>
         </author>
         <link href="https://sirmysterion.github.io/Daryl50th/testing-123/"/>
         <id>https://sirmysterion.github.io/Daryl50th/testing-123/</id>
 
-        <updated>2022-08-27T09:15:59-06:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-08-27T09:28:33-06:00</updated>
+            <summary>
+                <![CDATA[
+                    But now that you know more info!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>But now that you know more info!</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Daryl&#x27;s 50th</title>

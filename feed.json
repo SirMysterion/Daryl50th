@@ -12,14 +12,16 @@
         {
             "id": "https://sirmysterion.github.io/Daryl50th/testing-123/",
             "url": "https://sirmysterion.github.io/Daryl50th/testing-123/",
-            "title": "Testing 123",
+            "title": "Infomation 1",
+            "summary": "But now that you know more info!",
+            "content_html": "<p>But now that you know more info!</p>",
             "author": {
                 "name": "TnE Peters"
             },
             "tags": [
             ],
             "date_published": "2022-08-27T09:15:59-06:00",
-            "date_modified": "2022-08-27T09:15:59-06:00"
+            "date_modified": "2022-08-27T09:28:33-06:00"
         },
         {
             "id": "https://sirmysterion.github.io/Daryl50th/hello-world/",
