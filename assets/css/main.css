@@ -29,6 +29,22 @@
 	position:absolute;
 }
 
+/* .map-responsive div{
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	position:absolute;
+	object-fit: scale-down; max-width: 100%
+} */
+
+img.thatimage
+{
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
 .gallery {
 	margin: 0 -.25rem
 }
